@@ -1,7 +1,7 @@
 
 package array;
 
-public class LatihanMandiriArray {
+public class LatihanMandiri1 {
 
     public static void main(String[] args) {
         

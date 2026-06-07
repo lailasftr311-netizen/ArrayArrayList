@@ -3,7 +3,7 @@ package arraylist;
 
 import java.util.ArrayList;
 
-public class LatihanMandiriArraylist {
+public class LatihanMandiri2 {
     public static void main(String[] args) {
         System.out.println("=== SOAL 1: DAFTAR BELANJA ===");
         soalSatuDaftarBelanja();
@@ -19,7 +19,7 @@ public class LatihanMandiriArraylist {
     public static void soalSatuDaftarBelanja() {
         ArrayList<String> daftarBelanja = new ArrayList<>();
 
-        // Menambah 4 item
+        // Menambah 5 item
         daftarBelanja.add("Minyak Goreng");
         daftarBelanja.add("Beras"); // Ini item ke-2 (Indeks 1)
         daftarBelanja.add("Telur");
